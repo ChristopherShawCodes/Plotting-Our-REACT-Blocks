@@ -1,0 +1,9 @@
+.Main{
+    background-color: #e06666;
+    width: 63rem;
+    height: 39rem;
+    margin-left: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid black;
+}
